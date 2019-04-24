@@ -1,2 +1,2 @@
 # College-Internet-Distance-from-House-checker
-Program that checks how far away from campus is an address located and weather it has ATT U-Verse coverage. Created because I need it
+Program that checks how far away from campus is an address located and weather it has ATT U-Verse coverage. Created with the intention to help myself optimize the process of finding housing not that far away from college campus and with good internet. I thought it be cool to share with the world since it's useful, at least to me. You can modify it to do whatever you want to be honest. Coded with Kotlin, and consequently Java, because I'm not very familiar with pyton, although using it would had made this process way easier.
