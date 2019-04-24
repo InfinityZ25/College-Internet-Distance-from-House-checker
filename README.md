@@ -3,3 +3,6 @@ Program that checks how far away from campus is an address located and weather i
 
 # Just looking for the script and not the whole program?
 Lucky you, I also made an script that allows you to do exactly the same but doesn't to be compile if you don't want to. Here's the GIST https://gist.github.com/InfinityZ25/60c0f713ba118e1e750d4f1edbd93deb
+
+# Dependencies
+You just need to have Java install to run the program, all dependencies are compiled inside the jar. Now, if you want to fork it, you will need Kotlin and the libraries on the lib folder.
